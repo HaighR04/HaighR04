@@ -1,0 +1,4 @@
+- Hello, my name is Ryan Haigh, or @HaighR04
+- I am interested in Computer Science, but have not found a specific niche quite yet
+- I am currently learning C++
+- Pronouns: He/Him
